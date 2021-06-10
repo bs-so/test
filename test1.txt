@@ -8,5 +8,6 @@
 5-1.branchA側で修正
 5-2.branchA側で修正その２
 6.merge後の調整
-7.branchB側で修正
+7-1.branchB側で修正
+7-2.branchB側で修正その２
 
