@@ -4,10 +4,7 @@
 1.新規作成
 2.編集その１
 3.エンコードを変更(UTF-8)
-<<<<<<< HEAD
 4.master側で修正
-=======
-4-1.branchA側で修正
-4-2.branchA側で修正その２
->>>>>>> branchA
-
+5-1.branchA側で修正
+5-2.branchA側で修正その２
+6.merge後の調整
